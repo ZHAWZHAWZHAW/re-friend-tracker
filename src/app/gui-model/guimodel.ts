@@ -181,6 +181,13 @@ export class GuiModel {
                             "color": "wisteria", 
                             "page": "groupspage", 
                         },
+                        {
+                            "type": "button",
+                            "name": "Activities",
+                            "icon": "fas fa-biking",
+                            "color": "red",
+                            "page": "activityspage",
+                        },
                     ]
                 },
                 {
